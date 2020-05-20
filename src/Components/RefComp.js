@@ -5,6 +5,7 @@ import React, { Component } from 'react'
         return (
             <div>
                 Ref Component
+                Changes in Master
             </div>
         )
     }
