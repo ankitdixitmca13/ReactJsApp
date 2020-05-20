@@ -6,6 +6,7 @@ import React, { Component } from 'react'
             <div>
                 Ref Component
                 derect code in master
+                changes in Develop
             </div>
         )
     }
